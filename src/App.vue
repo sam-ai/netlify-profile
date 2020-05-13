@@ -244,9 +244,9 @@ export default {
       title: 'My portfolio',
       name: 'SAMBIT',
       surname: 'SEKHAR',
-      address: '3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·',
-      email: 'name@email.com',
-      aboutMe: 'I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.',
+      address: 'New Delhi· India · (91) 9667834669 ·',
+      email: 'sambitsekharai@gmail.com',
+      aboutMe: 'I am AI researcher, serial procrastinator, avid reader, fantasy and Sci-Fi geek, and fan of bending research papers to codes.',
       experience: [
         {
           position: 'Senior Web Developer',
